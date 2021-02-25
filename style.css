@@ -1,0 +1,39 @@
+form{
+    width:50%;
+    height:100px;
+    
+   
+}
+h1{
+    text-transform: capitalize;
+    font-size:2rem;
+    text-align: center;
+    align-items: center;
+}
+
+label{
+    font-weight:500;
+    text-transform: capitalize;
+    font-size: 2rem;
+    padding-right: 1rem;
+    display:block;
+}
+
+input{
+   font-size:2rem;
+  
+}
+#show{
+    width:2rem;
+    height:2rem;
+    
+}
+.not-found{
+    display:flex;
+    justify-content:center;
+    text-align:center;
+    align-items: center;
+}
+hr{
+    border:1px solid red;
+}
